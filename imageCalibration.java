@@ -1,4 +1,4 @@
-/** Calibration objects contain an image's spatial and density calibration data. */
+/** Calibration of a image*/
 package ij.measure;
 import ij.*;
 import ij.plugin.filter.Analyzer;
